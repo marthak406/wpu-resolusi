@@ -5,3 +5,5 @@ RENCANA KONTEN WPU
 - Golang
 - IoS
 - .Net
+- javascript
+  - class
