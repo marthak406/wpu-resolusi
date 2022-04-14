@@ -6,3 +6,4 @@ RENCANA KONTEN WPU
 - IoS
 - .Net
 - javascript
+  - class
