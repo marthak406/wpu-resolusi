@@ -5,3 +5,4 @@ RENCANA KONTEN WPU
 - Golang
 - IoS
 - .Net
+- Phyton
