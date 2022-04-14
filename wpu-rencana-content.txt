@@ -6,3 +6,5 @@ RENCANA KONTEN WPU
 - IoS
 - .Net
 - Phyton
+- javascript
+  - class
