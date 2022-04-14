@@ -4,3 +4,4 @@ RENCANA KONTEN WPU
   adalah blablablaaaaaaa
 - Golang
 - IoS
+- .Net
